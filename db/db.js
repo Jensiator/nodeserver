@@ -1,8 +1,13 @@
 const todos =  [
     {
       id: 1,
-      title: "lunch",
-      description: "Go for lunc by 2pm"
+      title: "Lunch",
+      description: "Go for lunc by 14:00"
+    },
+    {
+      id: 1,
+      title: "Laundry",
+      description: "Book this evening 19:00"
     }
 ];
 
